@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904823643813",
+    "project_id": "zporternotes",
+    "storage_bucket": "zporternotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904823643813:android:223d1221af2793a51b374c",
+        "android_client_info": {
+          "package_name": "com.example.zporter_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrargvkZqFUco4yVQMolwJfIDnIQF6pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
